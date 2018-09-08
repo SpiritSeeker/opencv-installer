@@ -1,5 +1,5 @@
 # opencv-installer
-A shell script to install the lastest version of OpenCV on Ubuntu 14.04 and above
+A shell script to install the lastest version of OpenCV on Debian based systems
 
 Give exectutable permissions to the shell script
 # $ sudo chmod +x opencv_install.sh
